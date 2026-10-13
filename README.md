@@ -1,4 +1,4 @@
-# 🧮📐 SME0142 - Álgebra Linear e Aplicações
+# SME0142 - Álgebra Linear e Aplicações
 
 Exercícios e trabalhos da disciplina **SME0142 - Álgebra Linear e Aplicações**, implementados em notebooks Jupyter.
 
@@ -7,9 +7,9 @@ Exercícios e trabalhos da disciplina **SME0142 - Álgebra Linear e Aplicações
   <img alt="Instituição" src="https://img.shields.io/badge/USP-Universidade%20de%20S%C3%A3o%20Paulo-orange?style=for-the-badge">
 </p>
 
-> 📚 **Disciplina:** SME0142 - Álgebra Linear e Aplicações <br>
-> 👩‍🏫 **Docente:** Cynthia de Oliveira Lage Ferreira <br>
-> 🏛️ **Instituição:** USP - Universidade de São Paulo
+> **Disciplina:** SME0142 - Álgebra Linear e Aplicações <br>
+> **Docente:** Cynthia de Oliveira Lage Ferreira <br>
+> **Instituição:** USP - Universidade de São Paulo
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -18,13 +18,13 @@ Exercícios e trabalhos da disciplina **SME0142 - Álgebra Linear e Aplicações
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
 </p>
 
-## 📋 Requisitos
+## Requisitos
 
 - **Python 3**
 - **Jupyter** (JupyterLab, Notebook, VS Code ou Google Colab)
 - `numpy`, `matplotlib`; `scikit-learn`, `pandas`, `nltk`, `networkx`, `seaborn` para os trabalhos
 
-## 🚀 Como Executar
+## Como Executar
 
 ```bash
 jupyter lab
@@ -32,13 +32,13 @@ jupyter lab
 
 Abra o notebook desejado no ambiente Jupyter.
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 - `Exercicio1.ipynb` a `Exercicio8.ipynb`: exercícios com implementação e visualização.
 - `TrabalhoPratico.ipynb`: trabalho prático da disciplina (outubro de 2025).
 - `TrabalhoFinal.ipynb`: trabalho final.
 
-## ✨ Funcionalidades Implementadas
+## Funcionalidades Implementadas
 
 - **Subespaços e bases**: subespaço gerado, soma de subespaços, mudança de base.
 - **Transformações lineares**: matriz na base canônica, rotação, imagem da circunferência por uma transformação, operadores diagonalizáveis (autovalores e autoespaços).
